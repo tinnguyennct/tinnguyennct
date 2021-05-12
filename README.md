@@ -19,7 +19,7 @@ Chao xìn! Tui là Tín đây
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-📊 **Đang chào hỏi:**
+⏳ **Đang chào hỏi mấy anh trai này**
 <!--START_SECTION:waka-->
 ```text
 CI/CD
@@ -27,7 +27,7 @@ Ansible
 ```
 <!--END_SECTION:waka-->
 
-📊 **Người lạ có nên bắt chuyện**
+▶ **Người lạ có nên bắt chuyện không ta?**
 <!--START_SECTION:waka-->
 ```text
 ELK
