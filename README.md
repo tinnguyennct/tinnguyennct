@@ -13,17 +13,26 @@ Chao xìn! Tui là Tín đây
 - 📫 [Mail: Tin Nguyen](mailto:chanhtinvt54@gmail.com)
 - 📝 Ước gì sáng ngủ dậy tự nhiên thành Đép Ốp cả thế giới biết đến...
 
-**Languages and Tools:**  
+**Mới nhét được vô đầu bấy nhiêu:**  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-📊 **I'm learning:**
+📊 **Đang chào hỏi:**
 <!--START_SECTION:waka-->
 ```text
+CI/CD
 Ansible
+```
+<!--END_SECTION:waka-->
+
+📊 **Người lạ có nên bắt chuyện**
+<!--START_SECTION:waka-->
+```text
+ELK
 Kubernetes
+Prometheus/Grafana
 ```
 <!--END_SECTION:waka-->
 
