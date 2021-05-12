@@ -13,7 +13,7 @@ Chao xìn! Tui là Tín đây
 - 📫 [Mail: Tin Nguyen](mailto:chanhtinvt54@gmail.com)
 - 📝 Ước gì sáng ngủ dậy tự nhiên thành Đép Ốp cả thế giới biết đến...
 
-**Mới nhét được vô đầu bấy nhiêu:**  
+**Mới nhét được vô đầu sơ sơ bấy nhiêu**  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
