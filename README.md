@@ -19,9 +19,9 @@ Chao xìn! Tui là Tín đây
 
 **Tool**  
 ![](https://img.shields.io/badge/Tools-Kubernetes-orange?style=flat&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Ansible-blue?style=flat&logo=ansible)
 ![](https://img.shields.io/badge/Tools-ELK-yellowgreen?style=flat&logo=elastic)
+![](https://img.shields.io/badge/Tools-Ansible-blue?style=flat&logo=ansible)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 
 
