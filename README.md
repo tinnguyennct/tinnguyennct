@@ -11,31 +11,14 @@ Chao xìn! Tui là Tín đây
   
 - 💬 Chúc một ngày tốt lành!
 - 📫 [Mail: Tin Nguyen](mailto:chanhtinvt54@gmail.com)
-- 📝 Ước gì sáng ngủ dậy tự nhiên thành Đép Ốp cả thế giới biết đến...
 
-**Mới nhét được sơ sơ vô đầu bấy nhiêu**  
+**Here!**  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
-⏳ **Đang chào hỏi mấy anh trai này**
-<!--START_SECTION:waka-->
-```text
-CI/CD
-Ansible
-```
-<!--END_SECTION:waka-->
-
-▶ **Người lạ có nên bắt chuyện không ta?**
-<!--START_SECTION:waka-->
-```text
-ELK
-Kubernetes
-Prometheus/Grafana
-```
-<!--END_SECTION:waka-->
-
+![](https://img.shields.io/badge/Tools-Ansible-blue)
+![](https://img.shields.io/badge/Tools-ELK-yellowgreen)
 
 
 
